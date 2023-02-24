@@ -1,0 +1,4 @@
+INFO:my-logger:Best Gamma Value is: 0.1
+INFO:my-logger:Best learning_rate Value is: 0.1
+INFO:my-logger:Best max_depth Value is: 3
+INFO:my-logger:Best n_estimators Value is: 500
